@@ -154,5 +154,11 @@ function scr_map_settings(argument0)
 			global.SHOW_TIMER = false
 		}
 		break
+		case rm_mapgeneral1:
+		{
+			func_switchmusic(sfx_mu_sillygooseRag)
+			global.OUT_OF_BOUNDS_MEASURE = "respawn"
+		}
+		break
 	}
 }

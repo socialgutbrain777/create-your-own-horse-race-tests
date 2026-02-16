@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_nightmare_biomorphcruficixion_eyes",
   "bboxMode":0,
   "bbox_bottom":11,
@@ -12,22 +12,22 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"d40336f0-8571-4025-8778-7bcbf392dfdf","name":"d40336f0-8571-4025-8778-7bcbf392dfdf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3306c9b4-7f55-4afd-b1d3-512f8c9570e2","name":"3306c9b4-7f55-4afd-b1d3-512f8c9570e2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"6817781c-4255-4be1-b059-043716f825b2","name":"6817781c-4255-4be1-b059-043716f825b2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"f8197688-445f-49e4-a119-5c706f059116","name":"f8197688-445f-49e4-a119-5c706f059116","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9d0e0b03-d319-4eef-b9eb-73c0f72c85b9","name":"9d0e0b03-d319-4eef-b9eb-73c0f72c85b9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"44987f89-afd1-449d-9406-fcf82674d95f","name":"44987f89-afd1-449d-9406-fcf82674d95f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"cc63b19d-245a-4d98-b784-97cefebfea8d","name":"cc63b19d-245a-4d98-b784-97cefebfea8d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"58f4165c-31f3-4ef2-a441-bec2b36e9c4d","name":"58f4165c-31f3-4ef2-a441-bec2b36e9c4d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ec8ccc20-27be-46b3-8689-2931a64f8698","name":"ec8ccc20-27be-46b3-8689-2931a64f8698","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ec18671a-2282-4e8a-bd25-9074b3c65000","name":"ec18671a-2282-4e8a-bd25-9074b3c65000","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"fcf88927-e5d4-49fa-b503-bc29beb7af2e","name":"fcf88927-e5d4-49fa-b503-bc29beb7af2e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a4e4a316-a885-41d9-868a-c3c5d3c4938b","name":"a4e4a316-a885-41d9-868a-c3c5d3c4938b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1f51435e-58bc-4056-85d0-830367351b14","name":"1f51435e-58bc-4056-85d0-830367351b14","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"b4b63e15-d2e8-4f8e-b220-1402a1a386c8","name":"b4b63e15-d2e8-4f8e-b220-1402a1a386c8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3aa577fc-898a-40c1-89ab-dcf7ab21311b","name":"3aa577fc-898a-40c1-89ab-dcf7ab21311b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"47cdf5dc-c07e-4221-94ba-ff2257b5ead0","name":"47cdf5dc-c07e-4221-94ba-ff2257b5ead0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d40336f0-8571-4025-8778-7bcbf392dfdf","name":"d40336f0-8571-4025-8778-7bcbf392dfdf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3306c9b4-7f55-4afd-b1d3-512f8c9570e2","name":"3306c9b4-7f55-4afd-b1d3-512f8c9570e2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"6817781c-4255-4be1-b059-043716f825b2","name":"6817781c-4255-4be1-b059-043716f825b2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f8197688-445f-49e4-a119-5c706f059116","name":"f8197688-445f-49e4-a119-5c706f059116","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9d0e0b03-d319-4eef-b9eb-73c0f72c85b9","name":"9d0e0b03-d319-4eef-b9eb-73c0f72c85b9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"44987f89-afd1-449d-9406-fcf82674d95f","name":"44987f89-afd1-449d-9406-fcf82674d95f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cc63b19d-245a-4d98-b784-97cefebfea8d","name":"cc63b19d-245a-4d98-b784-97cefebfea8d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"58f4165c-31f3-4ef2-a441-bec2b36e9c4d","name":"58f4165c-31f3-4ef2-a441-bec2b36e9c4d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ec8ccc20-27be-46b3-8689-2931a64f8698","name":"ec8ccc20-27be-46b3-8689-2931a64f8698","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ec18671a-2282-4e8a-bd25-9074b3c65000","name":"ec18671a-2282-4e8a-bd25-9074b3c65000","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fcf88927-e5d4-49fa-b503-bc29beb7af2e","name":"fcf88927-e5d4-49fa-b503-bc29beb7af2e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a4e4a316-a885-41d9-868a-c3c5d3c4938b","name":"a4e4a316-a885-41d9-868a-c3c5d3c4938b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1f51435e-58bc-4056-85d0-830367351b14","name":"1f51435e-58bc-4056-85d0-830367351b14","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b4b63e15-d2e8-4f8e-b220-1402a1a386c8","name":"b4b63e15-d2e8-4f8e-b220-1402a1a386c8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3aa577fc-898a-40c1-89ab-dcf7ab21311b","name":"3aa577fc-898a-40c1-89ab-dcf7ab21311b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"47cdf5dc-c07e-4221-94ba-ff2257b5ead0","name":"47cdf5dc-c07e-4221-94ba-ff2257b5ead0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -83,54 +83,22 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d40336f0-8571-4025-8778-7bcbf392dfdf","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"98cd970c-7853-4325-9b1f-5a7b690ba866","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3306c9b4-7f55-4afd-b1d3-512f8c9570e2","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"80f72eaf-b0c7-4439-9c68-4ceb1b452c3a","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6817781c-4255-4be1-b059-043716f825b2","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"13549d40-3ee2-4b82-afd6-6166f17226d9","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f8197688-445f-49e4-a119-5c706f059116","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"23f6ee92-13e0-4f72-8cdb-f9dfb12c6b93","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d0e0b03-d319-4eef-b9eb-73c0f72c85b9","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"baa86e28-3cd7-469c-bb41-31738ee1ae05","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"44987f89-afd1-449d-9406-fcf82674d95f","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4953c02e-4ed0-4094-9701-a9f495cb6e0c","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cc63b19d-245a-4d98-b784-97cefebfea8d","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"40b0a93b-7d3f-4450-91e5-7d252bd3a592","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"58f4165c-31f3-4ef2-a441-bec2b36e9c4d","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"38b93366-7f15-499d-813e-5066d663953c","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ec8ccc20-27be-46b3-8689-2931a64f8698","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f7114b4a-a045-4909-948b-6efb195d3401","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ec18671a-2282-4e8a-bd25-9074b3c65000","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c151b348-4a92-4012-8501-69debd05690d","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fcf88927-e5d4-49fa-b503-bc29beb7af2e","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e40a21d9-3e08-49ac-9bcc-086e60b5cbc4","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a4e4a316-a885-41d9-868a-c3c5d3c4938b","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6eac1519-68cc-4ba0-8e1b-407e6b1c0466","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f51435e-58bc-4056-85d0-830367351b14","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"59b7da75-47e8-4230-ac16-2fb691372fc5","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b4b63e15-d2e8-4f8e-b220-1402a1a386c8","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"059f78b0-1462-4100-8dc5-f4ea1ece5b60","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3aa577fc-898a-40c1-89ab-dcf7ab21311b","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1b499498-478f-41b7-a83d-fca42236adb1","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"47cdf5dc-c07e-4221-94ba-ff2257b5ead0","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c39d6d7a-f388-46b7-ba8e-3004ae829909","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d40336f0-8571-4025-8778-7bcbf392dfdf","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"98cd970c-7853-4325-9b1f-5a7b690ba866","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"3306c9b4-7f55-4afd-b1d3-512f8c9570e2","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"80f72eaf-b0c7-4439-9c68-4ceb1b452c3a","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"6817781c-4255-4be1-b059-043716f825b2","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"13549d40-3ee2-4b82-afd6-6166f17226d9","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"f8197688-445f-49e4-a119-5c706f059116","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"23f6ee92-13e0-4f72-8cdb-f9dfb12c6b93","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d0e0b03-d319-4eef-b9eb-73c0f72c85b9","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"baa86e28-3cd7-469c-bb41-31738ee1ae05","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"44987f89-afd1-449d-9406-fcf82674d95f","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"4953c02e-4ed0-4094-9701-a9f495cb6e0c","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"cc63b19d-245a-4d98-b784-97cefebfea8d","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"40b0a93b-7d3f-4450-91e5-7d252bd3a592","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"58f4165c-31f3-4ef2-a441-bec2b36e9c4d","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"38b93366-7f15-499d-813e-5066d663953c","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ec8ccc20-27be-46b3-8689-2931a64f8698","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f7114b4a-a045-4909-948b-6efb195d3401","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ec18671a-2282-4e8a-bd25-9074b3c65000","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c151b348-4a92-4012-8501-69debd05690d","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"fcf88927-e5d4-49fa-b503-bc29beb7af2e","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e40a21d9-3e08-49ac-9bcc-086e60b5cbc4","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a4e4a316-a885-41d9-868a-c3c5d3c4938b","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6eac1519-68cc-4ba0-8e1b-407e6b1c0466","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f51435e-58bc-4056-85d0-830367351b14","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"59b7da75-47e8-4230-ac16-2fb691372fc5","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b4b63e15-d2e8-4f8e-b220-1402a1a386c8","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"059f78b0-1462-4100-8dc5-f4ea1ece5b60","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"3aa577fc-898a-40c1-89ab-dcf7ab21311b","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1b499498-478f-41b7-a83d-fca42236adb1","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"47cdf5dc-c07e-4221-94ba-ff2257b5ead0","path":"sprites/spr_nightmare_biomorphcruficixion_eyes/spr_nightmare_biomorphcruficixion_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c39d6d7a-f388-46b7-ba8e-3004ae829909","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_nightmare_truckstophighway_eyes",
   "bboxMode":0,
   "bbox_bottom":7,
@@ -12,22 +12,22 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ee32b185-1165-4d04-b8f8-997cd7663c9e","name":"ee32b185-1165-4d04-b8f8-997cd7663c9e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"381fb837-0363-4eca-80e0-6ee99d9467de","name":"381fb837-0363-4eca-80e0-6ee99d9467de","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9b8ad69f-e78e-4ec1-b205-5ada0568d472","name":"9b8ad69f-e78e-4ec1-b205-5ada0568d472","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4363fd82-2c7f-4a51-880a-f29d0f0fc752","name":"4363fd82-2c7f-4a51-880a-f29d0f0fc752","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"44f132e3-19d4-4c98-bb13-cf28c6474635","name":"44f132e3-19d4-4c98-bb13-cf28c6474635","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"87dd3c66-c4f8-4057-bbc7-73bad3d35e9e","name":"87dd3c66-c4f8-4057-bbc7-73bad3d35e9e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c287e87f-b07b-413a-bf89-49927f595b46","name":"c287e87f-b07b-413a-bf89-49927f595b46","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"89dd84c0-08f6-49b8-806f-90eefa1d8860","name":"89dd84c0-08f6-49b8-806f-90eefa1d8860","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4d1773ad-ac6a-449e-b694-861f5555b5ec","name":"4d1773ad-ac6a-449e-b694-861f5555b5ec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"85912c45-6eed-4c0e-8f3c-9d09c92f1288","name":"85912c45-6eed-4c0e-8f3c-9d09c92f1288","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"67d186a6-828b-4b1a-8413-a1b03a71ba04","name":"67d186a6-828b-4b1a-8413-a1b03a71ba04","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9530cc25-27b8-4290-8a8a-eaa27bbee310","name":"9530cc25-27b8-4290-8a8a-eaa27bbee310","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"dcbfa84b-b74a-4dfc-8224-4d961e2fc610","name":"dcbfa84b-b74a-4dfc-8224-4d961e2fc610","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8344bf92-c202-4bf7-90f1-bd9c25ed8061","name":"8344bf92-c202-4bf7-90f1-bd9c25ed8061","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"67ebdfb1-7d84-4c6c-8bde-a1c1097020f6","name":"67ebdfb1-7d84-4c6c-8bde-a1c1097020f6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9b156cf1-c177-4877-81a6-2e153046039e","name":"9b156cf1-c177-4877-81a6-2e153046039e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ee32b185-1165-4d04-b8f8-997cd7663c9e","name":"ee32b185-1165-4d04-b8f8-997cd7663c9e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"381fb837-0363-4eca-80e0-6ee99d9467de","name":"381fb837-0363-4eca-80e0-6ee99d9467de","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9b8ad69f-e78e-4ec1-b205-5ada0568d472","name":"9b8ad69f-e78e-4ec1-b205-5ada0568d472","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4363fd82-2c7f-4a51-880a-f29d0f0fc752","name":"4363fd82-2c7f-4a51-880a-f29d0f0fc752","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"44f132e3-19d4-4c98-bb13-cf28c6474635","name":"44f132e3-19d4-4c98-bb13-cf28c6474635","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"87dd3c66-c4f8-4057-bbc7-73bad3d35e9e","name":"87dd3c66-c4f8-4057-bbc7-73bad3d35e9e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c287e87f-b07b-413a-bf89-49927f595b46","name":"c287e87f-b07b-413a-bf89-49927f595b46","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"89dd84c0-08f6-49b8-806f-90eefa1d8860","name":"89dd84c0-08f6-49b8-806f-90eefa1d8860","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4d1773ad-ac6a-449e-b694-861f5555b5ec","name":"4d1773ad-ac6a-449e-b694-861f5555b5ec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"85912c45-6eed-4c0e-8f3c-9d09c92f1288","name":"85912c45-6eed-4c0e-8f3c-9d09c92f1288","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"67d186a6-828b-4b1a-8413-a1b03a71ba04","name":"67d186a6-828b-4b1a-8413-a1b03a71ba04","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9530cc25-27b8-4290-8a8a-eaa27bbee310","name":"9530cc25-27b8-4290-8a8a-eaa27bbee310","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"dcbfa84b-b74a-4dfc-8224-4d961e2fc610","name":"dcbfa84b-b74a-4dfc-8224-4d961e2fc610","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8344bf92-c202-4bf7-90f1-bd9c25ed8061","name":"8344bf92-c202-4bf7-90f1-bd9c25ed8061","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"67ebdfb1-7d84-4c6c-8bde-a1c1097020f6","name":"67ebdfb1-7d84-4c6c-8bde-a1c1097020f6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9b156cf1-c177-4877-81a6-2e153046039e","name":"9b156cf1-c177-4877-81a6-2e153046039e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -83,54 +83,22 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee32b185-1165-4d04-b8f8-997cd7663c9e","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e0cfdb04-a238-4ba0-94c2-32f9194afd24","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"381fb837-0363-4eca-80e0-6ee99d9467de","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a70f2cd4-640e-4a92-b187-36a1db30c4bc","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b8ad69f-e78e-4ec1-b205-5ada0568d472","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1daa5d39-d934-4315-a9a8-cc09ac2c548a","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4363fd82-2c7f-4a51-880a-f29d0f0fc752","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b9a15a2b-3e35-4352-bc99-4bf62b9052be","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"44f132e3-19d4-4c98-bb13-cf28c6474635","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4d488359-b9ab-41d7-8939-eb30ddbcb4e0","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"87dd3c66-c4f8-4057-bbc7-73bad3d35e9e","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8c47bc34-03ee-4a4d-ac29-bd747de0d484","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c287e87f-b07b-413a-bf89-49927f595b46","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"45177d27-9eca-4adc-8191-a3c05125ea1e","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"89dd84c0-08f6-49b8-806f-90eefa1d8860","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"457ef7ee-24e1-4692-b0ec-d85ae4354e15","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4d1773ad-ac6a-449e-b694-861f5555b5ec","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6c3049cb-4860-4cdb-822c-a4d3ed95f219","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"85912c45-6eed-4c0e-8f3c-9d09c92f1288","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fdd5a78b-ef0c-433d-bf2a-bf546acf812b","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"67d186a6-828b-4b1a-8413-a1b03a71ba04","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9a42ab63-46b3-4622-b74c-f553ff91f064","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9530cc25-27b8-4290-8a8a-eaa27bbee310","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1fc5488d-4f30-43b1-9a0e-55d2f2f99586","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dcbfa84b-b74a-4dfc-8224-4d961e2fc610","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"723c041b-7257-48cc-8123-1d725d988514","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8344bf92-c202-4bf7-90f1-bd9c25ed8061","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"83f926ca-c92c-43d7-a682-bbeac43207ce","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"67ebdfb1-7d84-4c6c-8bde-a1c1097020f6","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f34f9cf6-2e26-4dd9-b308-b49af10f3444","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b156cf1-c177-4877-81a6-2e153046039e","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"75ad2a13-f77e-4b01-8d60-5a1f182765f8","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee32b185-1165-4d04-b8f8-997cd7663c9e","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e0cfdb04-a238-4ba0-94c2-32f9194afd24","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"381fb837-0363-4eca-80e0-6ee99d9467de","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a70f2cd4-640e-4a92-b187-36a1db30c4bc","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b8ad69f-e78e-4ec1-b205-5ada0568d472","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1daa5d39-d934-4315-a9a8-cc09ac2c548a","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4363fd82-2c7f-4a51-880a-f29d0f0fc752","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b9a15a2b-3e35-4352-bc99-4bf62b9052be","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"44f132e3-19d4-4c98-bb13-cf28c6474635","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"4d488359-b9ab-41d7-8939-eb30ddbcb4e0","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"87dd3c66-c4f8-4057-bbc7-73bad3d35e9e","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"8c47bc34-03ee-4a4d-ac29-bd747de0d484","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c287e87f-b07b-413a-bf89-49927f595b46","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"45177d27-9eca-4adc-8191-a3c05125ea1e","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"89dd84c0-08f6-49b8-806f-90eefa1d8860","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"457ef7ee-24e1-4692-b0ec-d85ae4354e15","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4d1773ad-ac6a-449e-b694-861f5555b5ec","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6c3049cb-4860-4cdb-822c-a4d3ed95f219","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"85912c45-6eed-4c0e-8f3c-9d09c92f1288","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"fdd5a78b-ef0c-433d-bf2a-bf546acf812b","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"67d186a6-828b-4b1a-8413-a1b03a71ba04","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"9a42ab63-46b3-4622-b74c-f553ff91f064","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9530cc25-27b8-4290-8a8a-eaa27bbee310","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1fc5488d-4f30-43b1-9a0e-55d2f2f99586","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"dcbfa84b-b74a-4dfc-8224-4d961e2fc610","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"723c041b-7257-48cc-8123-1d725d988514","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8344bf92-c202-4bf7-90f1-bd9c25ed8061","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"83f926ca-c92c-43d7-a682-bbeac43207ce","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"67ebdfb1-7d84-4c6c-8bde-a1c1097020f6","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f34f9cf6-2e26-4dd9-b308-b49af10f3444","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b156cf1-c177-4877-81a6-2e153046039e","path":"sprites/spr_nightmare_truckstophighway_eyes/spr_nightmare_truckstophighway_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"75ad2a13-f77e-4b01-8d60-5a1f182765f8","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

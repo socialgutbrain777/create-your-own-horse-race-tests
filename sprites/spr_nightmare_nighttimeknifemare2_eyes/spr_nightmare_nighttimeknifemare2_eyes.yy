@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_nightmare_nighttimeknifemare2_eyes",
   "bboxMode":0,
   "bbox_bottom":8,
@@ -12,22 +12,22 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ef971cc1-0ed5-4b08-85d1-2ae75dd35149","name":"ef971cc1-0ed5-4b08-85d1-2ae75dd35149","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a645d1eb-be75-49ef-8be2-1e995fca1705","name":"a645d1eb-be75-49ef-8be2-1e995fca1705","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"fe651ee2-14cc-41d6-9c09-914d78fcb135","name":"fe651ee2-14cc-41d6-9c09-914d78fcb135","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"f9582af2-95cc-4595-bffd-9d18dfc24e4b","name":"f9582af2-95cc-4595-bffd-9d18dfc24e4b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9fbad833-3ada-4b4f-b790-64b08c51993a","name":"9fbad833-3ada-4b4f-b790-64b08c51993a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"54703f48-30c2-46a7-ba94-e5759fb4ff56","name":"54703f48-30c2-46a7-ba94-e5759fb4ff56","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"24c9167e-3de8-4702-8a11-a6d39a2a4d53","name":"24c9167e-3de8-4702-8a11-a6d39a2a4d53","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"f6bc47e1-377c-455e-a0b5-87c7298b0a05","name":"f6bc47e1-377c-455e-a0b5-87c7298b0a05","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"dfd46fa5-0617-44f2-8cae-b14430e73342","name":"dfd46fa5-0617-44f2-8cae-b14430e73342","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"07049f33-587b-44ac-870d-2500f97f7542","name":"07049f33-587b-44ac-870d-2500f97f7542","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"b2d1257d-a799-4b17-a79d-d5228e31c25d","name":"b2d1257d-a799-4b17-a79d-d5228e31c25d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d2d24b87-377c-4153-bc2a-243e4ff395f1","name":"d2d24b87-377c-4153-bc2a-243e4ff395f1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"cca810d8-91d6-4d61-9c8b-77fa18b978e9","name":"cca810d8-91d6-4d61-9c8b-77fa18b978e9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ecabd595-19f2-464c-b997-7cc9be34ffd6","name":"ecabd595-19f2-464c-b997-7cc9be34ffd6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"681d0682-5538-4b0d-8876-b03404beed26","name":"681d0682-5538-4b0d-8876-b03404beed26","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9aa56413-8101-4427-9cff-5a9505d5a3b8","name":"9aa56413-8101-4427-9cff-5a9505d5a3b8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ef971cc1-0ed5-4b08-85d1-2ae75dd35149","name":"ef971cc1-0ed5-4b08-85d1-2ae75dd35149","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a645d1eb-be75-49ef-8be2-1e995fca1705","name":"a645d1eb-be75-49ef-8be2-1e995fca1705","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fe651ee2-14cc-41d6-9c09-914d78fcb135","name":"fe651ee2-14cc-41d6-9c09-914d78fcb135","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f9582af2-95cc-4595-bffd-9d18dfc24e4b","name":"f9582af2-95cc-4595-bffd-9d18dfc24e4b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9fbad833-3ada-4b4f-b790-64b08c51993a","name":"9fbad833-3ada-4b4f-b790-64b08c51993a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"54703f48-30c2-46a7-ba94-e5759fb4ff56","name":"54703f48-30c2-46a7-ba94-e5759fb4ff56","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"24c9167e-3de8-4702-8a11-a6d39a2a4d53","name":"24c9167e-3de8-4702-8a11-a6d39a2a4d53","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f6bc47e1-377c-455e-a0b5-87c7298b0a05","name":"f6bc47e1-377c-455e-a0b5-87c7298b0a05","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"dfd46fa5-0617-44f2-8cae-b14430e73342","name":"dfd46fa5-0617-44f2-8cae-b14430e73342","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"07049f33-587b-44ac-870d-2500f97f7542","name":"07049f33-587b-44ac-870d-2500f97f7542","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b2d1257d-a799-4b17-a79d-d5228e31c25d","name":"b2d1257d-a799-4b17-a79d-d5228e31c25d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d2d24b87-377c-4153-bc2a-243e4ff395f1","name":"d2d24b87-377c-4153-bc2a-243e4ff395f1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cca810d8-91d6-4d61-9c8b-77fa18b978e9","name":"cca810d8-91d6-4d61-9c8b-77fa18b978e9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ecabd595-19f2-464c-b997-7cc9be34ffd6","name":"ecabd595-19f2-464c-b997-7cc9be34ffd6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"681d0682-5538-4b0d-8876-b03404beed26","name":"681d0682-5538-4b0d-8876-b03404beed26","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9aa56413-8101-4427-9cff-5a9505d5a3b8","name":"9aa56413-8101-4427-9cff-5a9505d5a3b8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -83,54 +83,22 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ef971cc1-0ed5-4b08-85d1-2ae75dd35149","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"bd3f630e-5e5c-446a-9654-f8f5c79741d2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a645d1eb-be75-49ef-8be2-1e995fca1705","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f7fbd658-0a6c-42b6-be63-86f510a6b7b8","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe651ee2-14cc-41d6-9c09-914d78fcb135","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0d194125-8a6f-4417-b05f-43c9679f68f5","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f9582af2-95cc-4595-bffd-9d18dfc24e4b","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"26f35ef4-536e-4378-9a3b-923e528653d2","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9fbad833-3ada-4b4f-b790-64b08c51993a","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"45fdc728-06b2-49e2-8d3d-6b6114aa2ac3","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"54703f48-30c2-46a7-ba94-e5759fb4ff56","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1ec166a0-0a13-403a-bae7-193c20c3e9e7","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"24c9167e-3de8-4702-8a11-a6d39a2a4d53","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"917c7231-d332-4276-ad58-ac5e6736b804","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f6bc47e1-377c-455e-a0b5-87c7298b0a05","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"131e7968-ea16-4dab-8c92-156eb1165e01","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dfd46fa5-0617-44f2-8cae-b14430e73342","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"746571f4-6fe3-4d9c-b2b8-f8776e353885","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"07049f33-587b-44ac-870d-2500f97f7542","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"46e8bc2f-402b-417d-b680-fa128ab4d558","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b2d1257d-a799-4b17-a79d-d5228e31c25d","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d8ca7af9-7d40-4da9-8c92-82ddd0feffe2","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d2d24b87-377c-4153-bc2a-243e4ff395f1","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"585afeda-7f8c-4086-9b14-444e79a5c637","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cca810d8-91d6-4d61-9c8b-77fa18b978e9","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a49cb3e5-3dc5-4c8f-904e-6fd7672c2c4f","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ecabd595-19f2-464c-b997-7cc9be34ffd6","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"682a8150-e2d6-4377-925e-0ff203c06f98","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"681d0682-5538-4b0d-8876-b03404beed26","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5b19ea17-ca23-4028-84c0-0d2b363877ea","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9aa56413-8101-4427-9cff-5a9505d5a3b8","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8fc41c0d-f25e-4162-9f29-82d3cec84e2a","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ef971cc1-0ed5-4b08-85d1-2ae75dd35149","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"bd3f630e-5e5c-446a-9654-f8f5c79741d2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a645d1eb-be75-49ef-8be2-1e995fca1705","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f7fbd658-0a6c-42b6-be63-86f510a6b7b8","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe651ee2-14cc-41d6-9c09-914d78fcb135","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0d194125-8a6f-4417-b05f-43c9679f68f5","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"f9582af2-95cc-4595-bffd-9d18dfc24e4b","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"26f35ef4-536e-4378-9a3b-923e528653d2","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9fbad833-3ada-4b4f-b790-64b08c51993a","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"45fdc728-06b2-49e2-8d3d-6b6114aa2ac3","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"54703f48-30c2-46a7-ba94-e5759fb4ff56","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1ec166a0-0a13-403a-bae7-193c20c3e9e7","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"24c9167e-3de8-4702-8a11-a6d39a2a4d53","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"917c7231-d332-4276-ad58-ac5e6736b804","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"f6bc47e1-377c-455e-a0b5-87c7298b0a05","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"131e7968-ea16-4dab-8c92-156eb1165e01","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"dfd46fa5-0617-44f2-8cae-b14430e73342","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"746571f4-6fe3-4d9c-b2b8-f8776e353885","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"07049f33-587b-44ac-870d-2500f97f7542","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"46e8bc2f-402b-417d-b680-fa128ab4d558","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b2d1257d-a799-4b17-a79d-d5228e31c25d","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d8ca7af9-7d40-4da9-8c92-82ddd0feffe2","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d2d24b87-377c-4153-bc2a-243e4ff395f1","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"585afeda-7f8c-4086-9b14-444e79a5c637","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"cca810d8-91d6-4d61-9c8b-77fa18b978e9","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a49cb3e5-3dc5-4c8f-904e-6fd7672c2c4f","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ecabd595-19f2-464c-b997-7cc9be34ffd6","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"682a8150-e2d6-4377-925e-0ff203c06f98","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"681d0682-5538-4b0d-8876-b03404beed26","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"5b19ea17-ca23-4028-84c0-0d2b363877ea","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9aa56413-8101-4427-9cff-5a9505d5a3b8","path":"sprites/spr_nightmare_nighttimeknifemare2_eyes/spr_nightmare_nighttimeknifemare2_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"8fc41c0d-f25e-4162-9f29-82d3cec84e2a","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

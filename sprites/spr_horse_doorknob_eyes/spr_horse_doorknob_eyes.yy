@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_horse_doorknob_eyes",
   "bboxMode":0,
   "bbox_bottom":3,
@@ -12,22 +12,22 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e8081edb-c980-473a-9745-2bf38a8689fd","name":"e8081edb-c980-473a-9745-2bf38a8689fd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8f4a527d-06bd-4d14-ba0d-92eb5dea21b8","name":"8f4a527d-06bd-4d14-ba0d-92eb5dea21b8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9e0e6a9f-25a4-4174-b9d4-29eaf5e23e98","name":"9e0e6a9f-25a4-4174-b9d4-29eaf5e23e98","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1a0a0f79-db51-455a-b6b3-9b40e6825817","name":"1a0a0f79-db51-455a-b6b3-9b40e6825817","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"aa7555fc-7311-4e2a-8882-a449bdd6d7c5","name":"aa7555fc-7311-4e2a-8882-a449bdd6d7c5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0ea84ef2-6298-40a3-8be7-23a4947b0fe6","name":"0ea84ef2-6298-40a3-8be7-23a4947b0fe6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"88422eea-59aa-48a5-bb25-f5639ea43f2d","name":"88422eea-59aa-48a5-bb25-f5639ea43f2d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"e14d9bc0-0357-45ef-ba11-70f283145de2","name":"e14d9bc0-0357-45ef-ba11-70f283145de2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"754a4f74-e1d9-427f-a27f-d8a884e2c522","name":"754a4f74-e1d9-427f-a27f-d8a884e2c522","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"093233a5-1d11-45fc-b155-7ac10a2ab448","name":"093233a5-1d11-45fc-b155-7ac10a2ab448","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"488dfd36-e70a-4481-9ac3-e19bda896a10","name":"488dfd36-e70a-4481-9ac3-e19bda896a10","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c9b2c972-c7fd-4905-8547-368703f92a63","name":"c9b2c972-c7fd-4905-8547-368703f92a63","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c08cd497-bd00-4965-a955-c0e0e2505f4d","name":"c08cd497-bd00-4965-a955-c0e0e2505f4d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c5c76c12-8ac7-4274-a622-281429402be3","name":"c5c76c12-8ac7-4274-a622-281429402be3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"5b9c2ceb-adca-436a-82bf-c223af224f2c","name":"5b9c2ceb-adca-436a-82bf-c223af224f2c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"94761144-b437-4467-ae4a-93250e93a334","name":"94761144-b437-4467-ae4a-93250e93a334","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e8081edb-c980-473a-9745-2bf38a8689fd","name":"e8081edb-c980-473a-9745-2bf38a8689fd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8f4a527d-06bd-4d14-ba0d-92eb5dea21b8","name":"8f4a527d-06bd-4d14-ba0d-92eb5dea21b8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9e0e6a9f-25a4-4174-b9d4-29eaf5e23e98","name":"9e0e6a9f-25a4-4174-b9d4-29eaf5e23e98","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1a0a0f79-db51-455a-b6b3-9b40e6825817","name":"1a0a0f79-db51-455a-b6b3-9b40e6825817","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"aa7555fc-7311-4e2a-8882-a449bdd6d7c5","name":"aa7555fc-7311-4e2a-8882-a449bdd6d7c5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0ea84ef2-6298-40a3-8be7-23a4947b0fe6","name":"0ea84ef2-6298-40a3-8be7-23a4947b0fe6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"88422eea-59aa-48a5-bb25-f5639ea43f2d","name":"88422eea-59aa-48a5-bb25-f5639ea43f2d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e14d9bc0-0357-45ef-ba11-70f283145de2","name":"e14d9bc0-0357-45ef-ba11-70f283145de2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"754a4f74-e1d9-427f-a27f-d8a884e2c522","name":"754a4f74-e1d9-427f-a27f-d8a884e2c522","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"093233a5-1d11-45fc-b155-7ac10a2ab448","name":"093233a5-1d11-45fc-b155-7ac10a2ab448","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"488dfd36-e70a-4481-9ac3-e19bda896a10","name":"488dfd36-e70a-4481-9ac3-e19bda896a10","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c9b2c972-c7fd-4905-8547-368703f92a63","name":"c9b2c972-c7fd-4905-8547-368703f92a63","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c08cd497-bd00-4965-a955-c0e0e2505f4d","name":"c08cd497-bd00-4965-a955-c0e0e2505f4d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c5c76c12-8ac7-4274-a622-281429402be3","name":"c5c76c12-8ac7-4274-a622-281429402be3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5b9c2ceb-adca-436a-82bf-c223af224f2c","name":"5b9c2ceb-adca-436a-82bf-c223af224f2c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"94761144-b437-4467-ae4a-93250e93a334","name":"94761144-b437-4467-ae4a-93250e93a334","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -83,54 +83,22 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e8081edb-c980-473a-9745-2bf38a8689fd","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d19938a2-bdcd-49e8-95d4-bc0d0c572ed1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8f4a527d-06bd-4d14-ba0d-92eb5dea21b8","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"646b15ef-5d2b-483d-9f33-2a7a7b32d1ff","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9e0e6a9f-25a4-4174-b9d4-29eaf5e23e98","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e35a618d-1933-40aa-9c4b-f0ce86036500","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a0a0f79-db51-455a-b6b3-9b40e6825817","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"072bc4a6-32c0-4cbc-8f03-ffe451721a79","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa7555fc-7311-4e2a-8882-a449bdd6d7c5","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3595137a-5394-453e-b99d-59f08fe4f270","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0ea84ef2-6298-40a3-8be7-23a4947b0fe6","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a15dd4c8-2226-46d5-87c5-628a1c46d9bd","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"88422eea-59aa-48a5-bb25-f5639ea43f2d","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"63c7c0c6-56bd-437d-b6b3-fa887bf7a524","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e14d9bc0-0357-45ef-ba11-70f283145de2","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4f8423da-de70-43de-8288-c4131b845f57","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"754a4f74-e1d9-427f-a27f-d8a884e2c522","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"84c20e41-4a3d-42b1-9060-a30f40ce383c","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"093233a5-1d11-45fc-b155-7ac10a2ab448","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d02f0e9e-d604-4c58-9a18-5734a477138e","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"488dfd36-e70a-4481-9ac3-e19bda896a10","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d1b4f6f3-3416-4302-873d-41050d49f514","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9b2c972-c7fd-4905-8547-368703f92a63","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"febadc4d-bec0-4dba-a95b-2a3143ba9a47","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c08cd497-bd00-4965-a955-c0e0e2505f4d","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fce9793b-c0ec-46ad-99e3-2606d6710b2f","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c5c76c12-8ac7-4274-a622-281429402be3","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0498b0c6-12d8-483c-bf78-78c7b1183a10","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5b9c2ceb-adca-436a-82bf-c223af224f2c","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"70752c60-54b9-46a5-aa87-710903610d6d","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"94761144-b437-4467-ae4a-93250e93a334","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9e6e903f-36c6-4546-8374-bc5d82082a30","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e8081edb-c980-473a-9745-2bf38a8689fd","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d19938a2-bdcd-49e8-95d4-bc0d0c572ed1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8f4a527d-06bd-4d14-ba0d-92eb5dea21b8","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"646b15ef-5d2b-483d-9f33-2a7a7b32d1ff","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9e0e6a9f-25a4-4174-b9d4-29eaf5e23e98","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e35a618d-1933-40aa-9c4b-f0ce86036500","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a0a0f79-db51-455a-b6b3-9b40e6825817","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"072bc4a6-32c0-4cbc-8f03-ffe451721a79","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa7555fc-7311-4e2a-8882-a449bdd6d7c5","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"3595137a-5394-453e-b99d-59f08fe4f270","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"0ea84ef2-6298-40a3-8be7-23a4947b0fe6","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a15dd4c8-2226-46d5-87c5-628a1c46d9bd","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"88422eea-59aa-48a5-bb25-f5639ea43f2d","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"63c7c0c6-56bd-437d-b6b3-fa887bf7a524","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e14d9bc0-0357-45ef-ba11-70f283145de2","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"4f8423da-de70-43de-8288-c4131b845f57","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"754a4f74-e1d9-427f-a27f-d8a884e2c522","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"84c20e41-4a3d-42b1-9060-a30f40ce383c","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"093233a5-1d11-45fc-b155-7ac10a2ab448","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d02f0e9e-d604-4c58-9a18-5734a477138e","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"488dfd36-e70a-4481-9ac3-e19bda896a10","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d1b4f6f3-3416-4302-873d-41050d49f514","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9b2c972-c7fd-4905-8547-368703f92a63","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"febadc4d-bec0-4dba-a95b-2a3143ba9a47","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c08cd497-bd00-4965-a955-c0e0e2505f4d","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"fce9793b-c0ec-46ad-99e3-2606d6710b2f","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c5c76c12-8ac7-4274-a622-281429402be3","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0498b0c6-12d8-483c-bf78-78c7b1183a10","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"5b9c2ceb-adca-436a-82bf-c223af224f2c","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"70752c60-54b9-46a5-aa87-710903610d6d","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"94761144-b437-4467-ae4a-93250e93a334","path":"sprites/spr_horse_doorknob_eyes/spr_horse_doorknob_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"9e6e903f-36c6-4546-8374-bc5d82082a30","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

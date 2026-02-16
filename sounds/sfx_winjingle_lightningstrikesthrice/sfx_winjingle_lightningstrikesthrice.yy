@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"sfx_winjingle_lightningstrikesthrice",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":0,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":4.127347,
+  "exportDir":"",
   "name":"sfx_winjingle_lightningstrikesthrice",
   "parent":{
     "name":"win jingles",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"sfx_winjingle_lightningstrikesthrice.mp3",
-  "type":0,
   "volume":0.8,
 }

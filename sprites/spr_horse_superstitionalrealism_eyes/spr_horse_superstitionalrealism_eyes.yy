@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_horse_superstitionalrealism_eyes",
   "bboxMode":0,
   "bbox_bottom":6,
@@ -12,22 +12,22 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4b9f1f8a-5343-455c-8c11-df0abce62aad","name":"4b9f1f8a-5343-455c-8c11-df0abce62aad","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a85c88bb-d90e-4c7f-b353-8d3dc6bd272a","name":"a85c88bb-d90e-4c7f-b353-8d3dc6bd272a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"76a88b69-59ce-4cc8-b6b6-513b6571a619","name":"76a88b69-59ce-4cc8-b6b6-513b6571a619","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"fe9ee3ba-ad93-4730-bedf-44bd9f9eb1cd","name":"fe9ee3ba-ad93-4730-bedf-44bd9f9eb1cd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1011060d-1fd9-49a8-8b30-9ba4c4ad7161","name":"1011060d-1fd9-49a8-8b30-9ba4c4ad7161","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8e3524db-5554-496a-a757-8b7a48bead4b","name":"8e3524db-5554-496a-a757-8b7a48bead4b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a48130c3-1545-4042-98e5-414921527e73","name":"a48130c3-1545-4042-98e5-414921527e73","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"7fe770bb-ad9a-4ee9-9c7f-00f02d0dfdc9","name":"7fe770bb-ad9a-4ee9-9c7f-00f02d0dfdc9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8535aadd-77df-4a57-b827-d39ba6816237","name":"8535aadd-77df-4a57-b827-d39ba6816237","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3f7af9a0-79c2-479c-b72f-b4c7c5fa512c","name":"3f7af9a0-79c2-479c-b72f-b4c7c5fa512c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"b10c7f97-a5bb-468e-a4e9-1c625a7765ca","name":"b10c7f97-a5bb-468e-a4e9-1c625a7765ca","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"22d807ed-686a-478c-a2a3-68466218c782","name":"22d807ed-686a-478c-a2a3-68466218c782","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"f3de0c0b-6917-4d4c-8028-f44e166f238d","name":"f3de0c0b-6917-4d4c-8028-f44e166f238d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"16e1e2a3-b655-41b0-89ca-0740268ee080","name":"16e1e2a3-b655-41b0-89ca-0740268ee080","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"bea0772c-1f1a-4551-a5a3-370e2c36431e","name":"bea0772c-1f1a-4551-a5a3-370e2c36431e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"27bd1fb2-c268-4e72-a927-fa3b54b9572c","name":"27bd1fb2-c268-4e72-a927-fa3b54b9572c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4b9f1f8a-5343-455c-8c11-df0abce62aad","name":"4b9f1f8a-5343-455c-8c11-df0abce62aad","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a85c88bb-d90e-4c7f-b353-8d3dc6bd272a","name":"a85c88bb-d90e-4c7f-b353-8d3dc6bd272a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"76a88b69-59ce-4cc8-b6b6-513b6571a619","name":"76a88b69-59ce-4cc8-b6b6-513b6571a619","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fe9ee3ba-ad93-4730-bedf-44bd9f9eb1cd","name":"fe9ee3ba-ad93-4730-bedf-44bd9f9eb1cd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1011060d-1fd9-49a8-8b30-9ba4c4ad7161","name":"1011060d-1fd9-49a8-8b30-9ba4c4ad7161","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8e3524db-5554-496a-a757-8b7a48bead4b","name":"8e3524db-5554-496a-a757-8b7a48bead4b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a48130c3-1545-4042-98e5-414921527e73","name":"a48130c3-1545-4042-98e5-414921527e73","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7fe770bb-ad9a-4ee9-9c7f-00f02d0dfdc9","name":"7fe770bb-ad9a-4ee9-9c7f-00f02d0dfdc9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8535aadd-77df-4a57-b827-d39ba6816237","name":"8535aadd-77df-4a57-b827-d39ba6816237","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3f7af9a0-79c2-479c-b72f-b4c7c5fa512c","name":"3f7af9a0-79c2-479c-b72f-b4c7c5fa512c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b10c7f97-a5bb-468e-a4e9-1c625a7765ca","name":"b10c7f97-a5bb-468e-a4e9-1c625a7765ca","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"22d807ed-686a-478c-a2a3-68466218c782","name":"22d807ed-686a-478c-a2a3-68466218c782","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f3de0c0b-6917-4d4c-8028-f44e166f238d","name":"f3de0c0b-6917-4d4c-8028-f44e166f238d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"16e1e2a3-b655-41b0-89ca-0740268ee080","name":"16e1e2a3-b655-41b0-89ca-0740268ee080","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"bea0772c-1f1a-4551-a5a3-370e2c36431e","name":"bea0772c-1f1a-4551-a5a3-370e2c36431e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"27bd1fb2-c268-4e72-a927-fa3b54b9572c","name":"27bd1fb2-c268-4e72-a927-fa3b54b9572c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -83,54 +83,22 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4b9f1f8a-5343-455c-8c11-df0abce62aad","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9f373104-7a5b-42e2-a683-0323ce6d03a8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a85c88bb-d90e-4c7f-b353-8d3dc6bd272a","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"00c526a9-5b38-454e-b3a3-259663c92936","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"76a88b69-59ce-4cc8-b6b6-513b6571a619","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5adeb550-132f-4cda-b325-654bc486b652","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe9ee3ba-ad93-4730-bedf-44bd9f9eb1cd","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"158a1407-e09e-470c-8b72-51d48bac4cc7","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1011060d-1fd9-49a8-8b30-9ba4c4ad7161","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"45ff8b5a-34ea-4a47-b35b-029cde3967f9","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e3524db-5554-496a-a757-8b7a48bead4b","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ff5e70e9-b07e-4a14-a4ca-6bf1c9b7e2f4","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a48130c3-1545-4042-98e5-414921527e73","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"46c7c0b8-e37e-4922-a92a-506207727253","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7fe770bb-ad9a-4ee9-9c7f-00f02d0dfdc9","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ecde0e5b-3cac-416e-aa3b-3a43ce20f262","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8535aadd-77df-4a57-b827-d39ba6816237","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"011c8267-0f1b-4846-a3e5-bbb24f4dfa89","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3f7af9a0-79c2-479c-b72f-b4c7c5fa512c","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"59bfec1c-471d-482a-b786-0d3ec6151126","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b10c7f97-a5bb-468e-a4e9-1c625a7765ca","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f568151e-af45-47c2-b224-26b629ecb727","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"22d807ed-686a-478c-a2a3-68466218c782","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"cfa61829-3487-43aa-a577-2aa01015569c","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f3de0c0b-6917-4d4c-8028-f44e166f238d","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"695796eb-9129-4278-8d1a-4371cd20c1de","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"16e1e2a3-b655-41b0-89ca-0740268ee080","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"77f888ce-73b2-4521-be5c-6d0e82385f2a","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bea0772c-1f1a-4551-a5a3-370e2c36431e","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7e5681cf-4939-4844-a2eb-3fde8197ad48","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"27bd1fb2-c268-4e72-a927-fa3b54b9572c","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"efb9b512-a47d-4664-9e72-ebcd51867fcb","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4b9f1f8a-5343-455c-8c11-df0abce62aad","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"9f373104-7a5b-42e2-a683-0323ce6d03a8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a85c88bb-d90e-4c7f-b353-8d3dc6bd272a","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"00c526a9-5b38-454e-b3a3-259663c92936","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"76a88b69-59ce-4cc8-b6b6-513b6571a619","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"5adeb550-132f-4cda-b325-654bc486b652","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe9ee3ba-ad93-4730-bedf-44bd9f9eb1cd","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"158a1407-e09e-470c-8b72-51d48bac4cc7","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"1011060d-1fd9-49a8-8b30-9ba4c4ad7161","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"45ff8b5a-34ea-4a47-b35b-029cde3967f9","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e3524db-5554-496a-a757-8b7a48bead4b","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ff5e70e9-b07e-4a14-a4ca-6bf1c9b7e2f4","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a48130c3-1545-4042-98e5-414921527e73","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"46c7c0b8-e37e-4922-a92a-506207727253","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"7fe770bb-ad9a-4ee9-9c7f-00f02d0dfdc9","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ecde0e5b-3cac-416e-aa3b-3a43ce20f262","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8535aadd-77df-4a57-b827-d39ba6816237","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"011c8267-0f1b-4846-a3e5-bbb24f4dfa89","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"3f7af9a0-79c2-479c-b72f-b4c7c5fa512c","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"59bfec1c-471d-482a-b786-0d3ec6151126","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b10c7f97-a5bb-468e-a4e9-1c625a7765ca","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f568151e-af45-47c2-b224-26b629ecb727","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"22d807ed-686a-478c-a2a3-68466218c782","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"cfa61829-3487-43aa-a577-2aa01015569c","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"f3de0c0b-6917-4d4c-8028-f44e166f238d","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"695796eb-9129-4278-8d1a-4371cd20c1de","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"16e1e2a3-b655-41b0-89ca-0740268ee080","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"77f888ce-73b2-4521-be5c-6d0e82385f2a","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"bea0772c-1f1a-4551-a5a3-370e2c36431e","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"7e5681cf-4939-4844-a2eb-3fde8197ad48","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"27bd1fb2-c268-4e72-a927-fa3b54b9572c","path":"sprites/spr_horse_superstitionalrealism_eyes/spr_horse_superstitionalrealism_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"efb9b512-a47d-4664-9e72-ebcd51867fcb","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

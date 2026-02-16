@@ -764,5 +764,22 @@ function scr_horse_stats(_givenidentity,_room=room)
 			jinglelength = func_secondstoframes(6.6)
 		}
 		break
+		case "Raining Roses":
+		{
+			eyeframeamount = 8
+			spritemergedwitheyedirection = true
+			eyedirectionsmoveclockwise = true
+			firsteyeframe = 2
+			hasdasheffect = false
+			bodycolor = make_color_rgb(168,34,50)
+			winsprite = spr_horse_rainingRoses_win
+			losesprite = spr_horse_rainingRoses_lose
+			portraitsprite = spr_horseportrait_rainingRoses
+			portraitbgsprite = spr_horseportrait_bg_lh
+			winsound = sfx_goathorse
+			winjingle = sfx_winjingle_rainingRoses
+			jinglelength = func_secondstoframes(4.20)
+		}
+		break
 	}
 }

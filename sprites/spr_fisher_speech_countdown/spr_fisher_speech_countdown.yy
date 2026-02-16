@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_fisher_speech_countdown",
   "bboxMode":0,
   "bbox_bottom":71,
@@ -12,17 +12,17 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"be985ba1-5564-46e4-83c4-748f8ac042c8","name":"be985ba1-5564-46e4-83c4-748f8ac042c8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"55147942-f873-494b-afaf-1e5f469ab990","name":"55147942-f873-494b-afaf-1e5f469ab990","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4511e1b2-8731-4707-bd20-6a5bbdc0546b","name":"4511e1b2-8731-4707-bd20-6a5bbdc0546b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"464d61d8-8f86-4a77-9680-d7a3fa3b95d0","name":"464d61d8-8f86-4a77-9680-d7a3fa3b95d0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"b23a667f-5227-4b87-9cf5-46d7c3856d01","name":"b23a667f-5227-4b87-9cf5-46d7c3856d01","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"64589d83-8511-4b3a-b3bd-d4f63bef030f","name":"64589d83-8511-4b3a-b3bd-d4f63bef030f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4147d666-b84c-4480-bd1a-fe99388fcb0b","name":"4147d666-b84c-4480-bd1a-fe99388fcb0b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"bd76dc83-528d-4b03-8961-145290807fff","name":"bd76dc83-528d-4b03-8961-145290807fff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c53da9f1-900d-4925-a8b7-15d2ce492f85","name":"c53da9f1-900d-4925-a8b7-15d2ce492f85","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ee59a4ad-77c3-44f4-828b-39faf1144bbb","name":"ee59a4ad-77c3-44f4-828b-39faf1144bbb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"23909f2a-8a3f-40ba-8557-01223b6b1110","name":"23909f2a-8a3f-40ba-8557-01223b6b1110","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"be985ba1-5564-46e4-83c4-748f8ac042c8","name":"be985ba1-5564-46e4-83c4-748f8ac042c8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"55147942-f873-494b-afaf-1e5f469ab990","name":"55147942-f873-494b-afaf-1e5f469ab990","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4511e1b2-8731-4707-bd20-6a5bbdc0546b","name":"4511e1b2-8731-4707-bd20-6a5bbdc0546b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"464d61d8-8f86-4a77-9680-d7a3fa3b95d0","name":"464d61d8-8f86-4a77-9680-d7a3fa3b95d0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b23a667f-5227-4b87-9cf5-46d7c3856d01","name":"b23a667f-5227-4b87-9cf5-46d7c3856d01","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"64589d83-8511-4b3a-b3bd-d4f63bef030f","name":"64589d83-8511-4b3a-b3bd-d4f63bef030f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4147d666-b84c-4480-bd1a-fe99388fcb0b","name":"4147d666-b84c-4480-bd1a-fe99388fcb0b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"bd76dc83-528d-4b03-8961-145290807fff","name":"bd76dc83-528d-4b03-8961-145290807fff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c53da9f1-900d-4925-a8b7-15d2ce492f85","name":"c53da9f1-900d-4925-a8b7-15d2ce492f85","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ee59a4ad-77c3-44f4-828b-39faf1144bbb","name":"ee59a4ad-77c3-44f4-828b-39faf1144bbb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"23909f2a-8a3f-40ba-8557-01223b6b1110","name":"23909f2a-8a3f-40ba-8557-01223b6b1110","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -78,39 +78,17 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"be985ba1-5564-46e4-83c4-748f8ac042c8","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b23fc565-3481-4c51-afdd-58b95933db02","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"55147942-f873-494b-afaf-1e5f469ab990","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"17cde5fe-267a-4f47-b120-3fedced4f311","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4511e1b2-8731-4707-bd20-6a5bbdc0546b","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d6754a60-81d4-4903-ac87-fb307c2c3e71","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"464d61d8-8f86-4a77-9680-d7a3fa3b95d0","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"951555d4-316f-41d7-8940-e38e8888e5d8","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b23a667f-5227-4b87-9cf5-46d7c3856d01","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3b49f474-c124-4c6d-b921-70e9fcd50d95","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"64589d83-8511-4b3a-b3bd-d4f63bef030f","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"61e91a07-a570-45f9-9f49-a69c886f465c","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4147d666-b84c-4480-bd1a-fe99388fcb0b","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d5caaea2-7791-4255-9afc-29c55cc334c1","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bd76dc83-528d-4b03-8961-145290807fff","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d6591075-1aa5-466b-b8bf-0fd61f35799e","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c53da9f1-900d-4925-a8b7-15d2ce492f85","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5b6b21b8-5959-4d23-85db-6608ca93a47c","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee59a4ad-77c3-44f4-828b-39faf1144bbb","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2af1693d-bd52-41df-8ab1-748e517d6b16","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"23909f2a-8a3f-40ba-8557-01223b6b1110","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9f0c6ff3-096e-4ab3-9fa9-33c355aa7df8","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"be985ba1-5564-46e4-83c4-748f8ac042c8","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b23fc565-3481-4c51-afdd-58b95933db02","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"55147942-f873-494b-afaf-1e5f469ab990","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"17cde5fe-267a-4f47-b120-3fedced4f311","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4511e1b2-8731-4707-bd20-6a5bbdc0546b","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d6754a60-81d4-4903-ac87-fb307c2c3e71","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"464d61d8-8f86-4a77-9680-d7a3fa3b95d0","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"951555d4-316f-41d7-8940-e38e8888e5d8","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b23a667f-5227-4b87-9cf5-46d7c3856d01","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"3b49f474-c124-4c6d-b921-70e9fcd50d95","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"64589d83-8511-4b3a-b3bd-d4f63bef030f","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"61e91a07-a570-45f9-9f49-a69c886f465c","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4147d666-b84c-4480-bd1a-fe99388fcb0b","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d5caaea2-7791-4255-9afc-29c55cc334c1","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"bd76dc83-528d-4b03-8961-145290807fff","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d6591075-1aa5-466b-b8bf-0fd61f35799e","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c53da9f1-900d-4925-a8b7-15d2ce492f85","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"5b6b21b8-5959-4d23-85db-6608ca93a47c","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee59a4ad-77c3-44f4-828b-39faf1144bbb","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"2af1693d-bd52-41df-8ab1-748e517d6b16","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"23909f2a-8a3f-40ba-8557-01223b6b1110","path":"sprites/spr_fisher_speech_countdown/spr_fisher_speech_countdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"9f0c6ff3-096e-4ab3-9fa9-33c355aa7df8","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

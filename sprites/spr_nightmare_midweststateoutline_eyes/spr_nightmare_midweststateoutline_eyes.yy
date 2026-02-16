@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_nightmare_midweststateoutline_eyes",
   "bboxMode":0,
   "bbox_bottom":11,
@@ -12,22 +12,22 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"473df32a-4011-4af3-ac18-cec3878e30c6","name":"473df32a-4011-4af3-ac18-cec3878e30c6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"7dcbc0af-4be1-4b68-9cca-c42d8adcdc89","name":"7dcbc0af-4be1-4b68-9cca-c42d8adcdc89","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"97abfb08-45d1-4a84-b0a5-17a3cb6f8f37","name":"97abfb08-45d1-4a84-b0a5-17a3cb6f8f37","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a1de249c-bf0f-497e-be6b-48c01a80c88d","name":"a1de249c-bf0f-497e-be6b-48c01a80c88d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"18b04bc6-dcd6-429c-ba7a-34143eaacc49","name":"18b04bc6-dcd6-429c-ba7a-34143eaacc49","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c9903629-573d-4ca0-bb0a-02c6a016e2ea","name":"c9903629-573d-4ca0-bb0a-02c6a016e2ea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"5e75f74d-f352-415e-9acb-761ce0deef63","name":"5e75f74d-f352-415e-9acb-761ce0deef63","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ec9ba509-6f19-4b63-a61e-55799bbc53a7","name":"ec9ba509-6f19-4b63-a61e-55799bbc53a7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"447b8632-1e3d-4cda-b28f-b68f6b379fd8","name":"447b8632-1e3d-4cda-b28f-b68f6b379fd8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c8374a6b-a154-4f2a-a97a-c1e753c6753d","name":"c8374a6b-a154-4f2a-a97a-c1e753c6753d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"217cf028-8b18-4b16-82e8-a29b1c5c2e3b","name":"217cf028-8b18-4b16-82e8-a29b1c5c2e3b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9715a5b0-7d40-4e26-9dd6-b992596fcfa8","name":"9715a5b0-7d40-4e26-9dd6-b992596fcfa8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"30250df8-0408-4491-b4f5-6c3a43d72862","name":"30250df8-0408-4491-b4f5-6c3a43d72862","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ef56d54c-12df-4513-9a53-2d12e3863e74","name":"ef56d54c-12df-4513-9a53-2d12e3863e74","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"52d717a6-7387-4293-9ac5-1a6d704663e6","name":"52d717a6-7387-4293-9ac5-1a6d704663e6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"aa567a24-35d2-4a15-b2b1-8a7b21a5930d","name":"aa567a24-35d2-4a15-b2b1-8a7b21a5930d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"473df32a-4011-4af3-ac18-cec3878e30c6","name":"473df32a-4011-4af3-ac18-cec3878e30c6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7dcbc0af-4be1-4b68-9cca-c42d8adcdc89","name":"7dcbc0af-4be1-4b68-9cca-c42d8adcdc89","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"97abfb08-45d1-4a84-b0a5-17a3cb6f8f37","name":"97abfb08-45d1-4a84-b0a5-17a3cb6f8f37","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a1de249c-bf0f-497e-be6b-48c01a80c88d","name":"a1de249c-bf0f-497e-be6b-48c01a80c88d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"18b04bc6-dcd6-429c-ba7a-34143eaacc49","name":"18b04bc6-dcd6-429c-ba7a-34143eaacc49","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c9903629-573d-4ca0-bb0a-02c6a016e2ea","name":"c9903629-573d-4ca0-bb0a-02c6a016e2ea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5e75f74d-f352-415e-9acb-761ce0deef63","name":"5e75f74d-f352-415e-9acb-761ce0deef63","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ec9ba509-6f19-4b63-a61e-55799bbc53a7","name":"ec9ba509-6f19-4b63-a61e-55799bbc53a7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"447b8632-1e3d-4cda-b28f-b68f6b379fd8","name":"447b8632-1e3d-4cda-b28f-b68f6b379fd8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c8374a6b-a154-4f2a-a97a-c1e753c6753d","name":"c8374a6b-a154-4f2a-a97a-c1e753c6753d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"217cf028-8b18-4b16-82e8-a29b1c5c2e3b","name":"217cf028-8b18-4b16-82e8-a29b1c5c2e3b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9715a5b0-7d40-4e26-9dd6-b992596fcfa8","name":"9715a5b0-7d40-4e26-9dd6-b992596fcfa8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"30250df8-0408-4491-b4f5-6c3a43d72862","name":"30250df8-0408-4491-b4f5-6c3a43d72862","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ef56d54c-12df-4513-9a53-2d12e3863e74","name":"ef56d54c-12df-4513-9a53-2d12e3863e74","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"52d717a6-7387-4293-9ac5-1a6d704663e6","name":"52d717a6-7387-4293-9ac5-1a6d704663e6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"aa567a24-35d2-4a15-b2b1-8a7b21a5930d","name":"aa567a24-35d2-4a15-b2b1-8a7b21a5930d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -83,54 +83,22 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"473df32a-4011-4af3-ac18-cec3878e30c6","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f519d64c-66b2-422b-b157-37145b0553b8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7dcbc0af-4be1-4b68-9cca-c42d8adcdc89","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f68fdb6c-3ff2-4fc9-aa05-8cdfc62dd352","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"97abfb08-45d1-4a84-b0a5-17a3cb6f8f37","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6d25f327-d0ca-4e57-8ad9-2c117a3224c3","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a1de249c-bf0f-497e-be6b-48c01a80c88d","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ef7ef3c7-1ccf-4cbe-b1d0-a0801eb7e557","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"18b04bc6-dcd6-429c-ba7a-34143eaacc49","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"acfe1cc6-c3b0-44a7-b88b-e0dddc18e9ac","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9903629-573d-4ca0-bb0a-02c6a016e2ea","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1ff4387a-bd46-43c6-afd7-2a57071cbad8","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5e75f74d-f352-415e-9acb-761ce0deef63","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8c6eebe3-aa21-4d40-989e-afb0f0180cf2","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ec9ba509-6f19-4b63-a61e-55799bbc53a7","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"db0c611a-19a8-4181-977a-c517d14c6414","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"447b8632-1e3d-4cda-b28f-b68f6b379fd8","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1866ba61-78ba-43cc-b96b-afc018669ef3","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c8374a6b-a154-4f2a-a97a-c1e753c6753d","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c1b74d85-bf10-4c8d-a591-7366189b0a4e","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"217cf028-8b18-4b16-82e8-a29b1c5c2e3b","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f9aa4b03-1c25-44d4-b8ec-6a3b67b44cfa","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9715a5b0-7d40-4e26-9dd6-b992596fcfa8","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6bf7ae19-a4a0-4aed-a2e1-be2c043ac6a2","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"30250df8-0408-4491-b4f5-6c3a43d72862","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"82e2d6ce-0647-4068-a9d9-e53b97b0891c","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ef56d54c-12df-4513-9a53-2d12e3863e74","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"85c105e1-ffd2-45f4-9179-31bca2e7c4e1","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"52d717a6-7387-4293-9ac5-1a6d704663e6","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fa4d66a2-160b-4fe4-be93-0590501bb5d4","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa567a24-35d2-4a15-b2b1-8a7b21a5930d","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ae6fa6b9-2a18-4ba8-b17d-7d1326d96008","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"473df32a-4011-4af3-ac18-cec3878e30c6","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f519d64c-66b2-422b-b157-37145b0553b8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"7dcbc0af-4be1-4b68-9cca-c42d8adcdc89","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f68fdb6c-3ff2-4fc9-aa05-8cdfc62dd352","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"97abfb08-45d1-4a84-b0a5-17a3cb6f8f37","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6d25f327-d0ca-4e57-8ad9-2c117a3224c3","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a1de249c-bf0f-497e-be6b-48c01a80c88d","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ef7ef3c7-1ccf-4cbe-b1d0-a0801eb7e557","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"18b04bc6-dcd6-429c-ba7a-34143eaacc49","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"acfe1cc6-c3b0-44a7-b88b-e0dddc18e9ac","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9903629-573d-4ca0-bb0a-02c6a016e2ea","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1ff4387a-bd46-43c6-afd7-2a57071cbad8","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"5e75f74d-f352-415e-9acb-761ce0deef63","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"8c6eebe3-aa21-4d40-989e-afb0f0180cf2","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ec9ba509-6f19-4b63-a61e-55799bbc53a7","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"db0c611a-19a8-4181-977a-c517d14c6414","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"447b8632-1e3d-4cda-b28f-b68f6b379fd8","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1866ba61-78ba-43cc-b96b-afc018669ef3","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c8374a6b-a154-4f2a-a97a-c1e753c6753d","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c1b74d85-bf10-4c8d-a591-7366189b0a4e","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"217cf028-8b18-4b16-82e8-a29b1c5c2e3b","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f9aa4b03-1c25-44d4-b8ec-6a3b67b44cfa","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9715a5b0-7d40-4e26-9dd6-b992596fcfa8","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6bf7ae19-a4a0-4aed-a2e1-be2c043ac6a2","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"30250df8-0408-4491-b4f5-6c3a43d72862","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"82e2d6ce-0647-4068-a9d9-e53b97b0891c","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ef56d54c-12df-4513-9a53-2d12e3863e74","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"85c105e1-ffd2-45f4-9179-31bca2e7c4e1","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"52d717a6-7387-4293-9ac5-1a6d704663e6","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"fa4d66a2-160b-4fe4-be93-0590501bb5d4","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa567a24-35d2-4a15-b2b1-8a7b21a5930d","path":"sprites/spr_nightmare_midweststateoutline_eyes/spr_nightmare_midweststateoutline_eyes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ae6fa6b9-2a18-4ba8-b17d-7d1326d96008","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
