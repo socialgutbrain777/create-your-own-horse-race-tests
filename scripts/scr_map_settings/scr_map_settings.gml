@@ -3,6 +3,12 @@ function scr_map_settings(argument0)
 	func_switchmusic(sfx_null) //switches the music for this map
 	global.COUNTDOWN_SKIPTO = 0 //which frame to skip to in the coundtown
 	global.FASTER_COUNTDOWN = false //experimental, makes the countdown twice as fast
+	global.ANTI_COLLISION_MEASURE = "cheap" //what anti collision measure you want to use when a horse is stuck in a wall
+	//cheap: pushes the horse backwards in one direction until it finds a suitable position.
+	//will only use positions in the opposite direction of it's targetangle and might be buggy, but it's cheaper on performance
+	//expensive: actively looks for positions relative to the horse's position. runs way more loops than the cheap option,
+	//potentially having a more significant impact on performance (before v1.1, this was the default option)
+	//nothing: does nothing. is the cheapest on performance, but horses will stay stuck if they clip into a wall
 	global.OUT_OF_BOUNDS_MEASURE = "respawn" //how you want all horses to behave upon exiting the room's boundaries
 	//respawn: forces horses to respawn at their start position
 	//wrap: makes horses reappear at the opposite side of the room
@@ -144,6 +150,11 @@ function scr_map_settings(argument0)
 			{
 				obj_announcer.announcertype = "weird"
 			}
+		}
+		break
+		case rm_mapprison:
+		{
+			global.COUNTDOWN_SKIPTO = 419
 		}
 		break
 		case rm_hell:

@@ -6,7 +6,8 @@ func_updatespeed()
 func_move_towards_point_alt(targetangle,currentmovespeed)
 func_outofboundsmeasure()
 
-var _collidables = [obj_mapparent,obj_horseparent]
+//var _collidables = [obj_mapparent,obj_horseparent]
+var _collidables = [obj_mapparent]
 //move_and_collide(hsp,vsp,_collidables)
 func_collide(_collidables)
 
@@ -16,13 +17,13 @@ if stepsoundcooldown > 0
 if place_meeting(x,y,obj_mapparent)
 {
 	//show_debug_message("stuck inside solid, performing anti collision clip")
-	func_anticollisionclipping(obj_mapparent)
+	func_anticollisionmeasure(obj_mapparent)
 }
 if place_meeting(x,y,obj_horseparent)
 {
 	var _collidingobject = instance_place(x,y,obj_horseparent);
 	//show_debug_message("stuck inside horse, performing anti collision clip")
-	func_anticollisionclipping(obj_horseparent)
+	func_anticollisionmeasure(obj_horseparent)
 	defaultmovespeed = 1.5
 	func_updatespeed()
 	func_performcollision(_collidingobject)

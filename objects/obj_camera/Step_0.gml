@@ -1,6 +1,25 @@
 /// @description Insert description here
 // You can write your code in this editor
-zoomamount = clamp(zoomamount+(zoominterval*zoomdirection),zoommin,zoommax)
+switch zoomtype
+{
+	case "linear":
+	{
+		zoomamount = clamp(zoomamount+(zoominterval*zoomdirection),zoommin,zoommax)
+	}
+	break
+	case "curve":
+	{
+		if zoomdirection > 0
+		{
+			zoomamount = lerp(zoomamount,zoommax,(zoominterval))
+		}
+		else
+		{
+			zoomamount = lerp(zoomamount,zoommin,(zoominterval*2))
+		}
+	}
+	break
+}
 camera_set_view_size(camera,
 zoomwidth*zoomamount,
 zoomheight*zoomamount)
@@ -25,10 +44,8 @@ if instance_exists(target)
 	{
 		case obj_goal:
 		{
-			//show_debug_message(camera_get_view_x(camera)+global.VIEW_W_HALF)
-			//show_debug_message(camera_get_view_y(camera)+global.VIEW_H_HALF)
-			if (camera_get_view_x(camera)+global.VIEW_W_HALF) <= target.x + 11 && (camera_get_view_x(camera)+global.VIEW_W_HALF) >= target.x - 11 && (camera_get_view_y(camera)+global.VIEW_H_HALF) <= target.y + 11 && (camera_get_view_y(camera)+global.VIEW_H_HALF) >= target.y - 11
-				zoominterval = 0.0075
+			//just recently discovered that this doesnt work on objects
+			//parented to obj goal for some FUCKING REASON JESUS CHRIST
 		}
 		break
 		default:
@@ -36,9 +53,65 @@ if instance_exists(target)
 		}
 		break
 	}
+	/*
+	if target.object_index == obj_goal || object_get_parent(target.object_index) == obj_goal
+	{
+		show_debug_message(camera_get_view_x(camera)+global.VIEW_W_HALF)
+		show_debug_message(camera_get_view_y(camera)+global.VIEW_H_HALF)
+		if (camera_get_view_x(camera)+global.VIEW_W_HALF) <= target.x + 3 && (camera_get_view_x(camera)+global.VIEW_W_HALF) >= target.x - 3 && (camera_get_view_y(camera)+global.VIEW_H_HALF) <= target.y + 3 && (camera_get_view_y(camera)+global.VIEW_H_HALF) >= target.y - 3
+		if zoomamount <= 0.25
+		{
+			zoomtype = "linear"
+			show_debug_message("switching to linear zoom")
+			//zoominterval = 0.0075
+			zoominterval = 0.0025
+		}
+	}
+	*/
+}
+if zoomtransitionactive
+{
+	if target != noone
+	{
+		x = camera_get_view_x(camera)+global.VIEW_W_HALF
+		y = camera_get_view_y(camera)+global.VIEW_H_HALF
+		zoomx = target.x
+		zoomy = target.y
+		target = noone
+	}
+	var _zoomdir = point_direction(x,y,zoomx,zoomy)
+	var _zoomdis = point_distance(x,y,zoomx,zoomy)
+	if _zoomdis > zoommovespeed
+	{
+		x += lengthdir_x(zoommovespeed,_zoomdir)
+		y += lengthdir_y(zoommovespeed,_zoomdir)
+	}
+	else
+	{
+		x = zoomx
+		y = zoomy
+	}
+	zoommovespeed += 0.05
+	if zoomamount <= 0.25
+	{
+		zoomtype = "linear"
+		//zoominterval = 0.0075
+		zoominterval = 0.005
+	}
+	if zoomamount <= zoommin
+	{
+		target = noone
+		x = zoomwidth/2
+		y = zoomheight/2
+		zoomdirection = 1
+		zoommovespeed = 1
+		zoomtransitionactive = false
+		room_goto(zoomtransitiontargetroom)
+	}
 }
 //if room == rm_winnermultiple && zoomamount >= 1
-if global.GAME_STATE != "raceend" && zoomamount >= 1
+//if global.GAME_STATE != "raceend" && zoomamount >= 1
+if global.GAME_STATE != "raceend" && !zoomtransitionactive
 {
 	var _move = -keyboard_check(ord("A")) + keyboard_check(ord("D"))
 	var _move2 = -keyboard_check(ord("W")) + keyboard_check(ord("S"))
@@ -75,20 +148,23 @@ if global.GAME_STATE != "raceend" && zoomamount >= 1
 	}
 	if instance_exists(obj_ball) && (room_width > 640 || room_height > 480)
 	{
-		if keyboard_check_pressed(ord("R"))
+		if keyboard_check(vk_shift)
 		{
-			spectatingball++
-			if spectatingball > instance_number(obj_ball)-1
+			if keyboard_check_pressed(ord("E"))
 			{
-				spectatingball = -1
+				spectatingball++
+				if spectatingball > instance_number(obj_ball)-1
+				{
+					spectatingball = -1
+				}
 			}
-		}
-		if keyboard_check_pressed(ord("F"))
-		{
-			spectatingball--
-			if spectatingball < -1
+			if keyboard_check_pressed(ord("Q"))
 			{
-				spectatingball = instance_number(obj_ball)-1
+				spectatingball--
+				if spectatingball < -1
+				{
+					spectatingball = instance_number(obj_ball)-1
+				}
 			}
 		}
 		if spectatingball > instance_number(obj_ball)-1
@@ -172,16 +248,6 @@ camera_set_view_pos(camera,
 x-global.VIEW_W_HALF,
 y-global.VIEW_H_HALF)
 */
-
-if zoomamount <= zoommin && zoomtransitionactive == true
-{
-	target = noone
-	x = zoomwidth/2
-	y = zoomheight/2
-	zoomdirection = 1
-	zoomtransitionactive = false
-	room_goto(zoomtransitiontargetroom)
-}
 
 mouse_x_old = mouse_x
 mouse_y_old = mouse_y

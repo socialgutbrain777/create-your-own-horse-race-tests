@@ -159,6 +159,7 @@ switch global.GAME_STATE
 		if !audio_is_playing(global.LASTPLAYEDWINSOUND) && !audio_is_playing(sfx_gong) && !audio_is_playing(sfx_whistle)
 		{
 			obj_camera.zoomdirection = -1
+			obj_camera.zoomtype = "curve"
 			obj_camera.zoomtransitionactive = true
 			if array_length(global.WINNERS_LIST) > 1
 				obj_camera.zoomtransitiontargetroom = rm_winnermultiple
@@ -189,6 +190,7 @@ switch global.GAME_STATE
 		if outrocountdown >= 120
 		{
 			obj_camera.zoomdirection = -1
+			obj_camera.zoomtype = "curve"
 			obj_camera.zoomtransitionactive = true
 			obj_camera.zoomtransitiontargetroom = rm_winnersingle
 			audio_play_sound(global.WINSOUND,10,false)

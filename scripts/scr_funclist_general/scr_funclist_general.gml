@@ -5,6 +5,7 @@ function func_system_variables()
 	global.STEPSOUND = -1
 	global.STEPSOUND_PLAYEDTHISFRAME = -1
 	global.GAME_STATE = "racesetup"
+	global.ANTI_COLLISION_MEASURE = "cheap"
 	global.OUT_OF_BOUNDS_MEASURE = "respawn"
 	global.COUNTDOWN_SKIPTO = 0
 	global.FASTER_COUNTDOWN = false

@@ -14,11 +14,11 @@ if stepsoundcooldown > 0
 
 if place_meeting(x,y,obj_mapparent)
 {
-	func_anticollisionclipping(obj_mapparent)
+	func_anticollisionmeasure(obj_mapparent)
 }
 if place_meeting(x,y,obj_collectibleparent)
 {
-	func_anticollisionclipping(obj_collectibleparent)
+	func_anticollisionmeasure(obj_collectibleparent)
 }
 
 if func_placemeetingpath(x+hsp,y+vsp,obj_mapparent)

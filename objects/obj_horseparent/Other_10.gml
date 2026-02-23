@@ -41,12 +41,12 @@ if currentmovespeed-acceleration >= 4 && hasdasheffect == true
 if place_meeting(x,y,obj_mapparent)
 {
 	//show_debug_message("stuck inside solid, performing anti collision clip")
-	func_anticollisionclipping(obj_mapparent)
+	func_anticollisionmeasure(obj_mapparent)
 }
 if place_meeting(x,y,obj_horseparent)
 {
 	//show_debug_message("stuck inside horse, performing anti collision clip")
-	func_anticollisionclipping(obj_horseparent)
+	func_anticollisionmeasure(obj_horseparent)
 }
 if func_placemeetingpath(x+hsp,y+vsp,obj_mapparent)
 {

@@ -2,10 +2,11 @@ function func_updatespeed()
 {
 	var _newmovespeed = defaultmovespeed+acceleration+overtimeacceleration+knockbackrecieved
 	currentmovespeed = clamp(_newmovespeed,0,_newmovespeed)
+	//the clamp makes sure that movespeed is never less than 0
 }
 function func_ballpass(_checkforhorse)
 {
-	if _checkforhorse.object_index == obj_horseparent || object_get_parent(_checkforhorse.object_index) == obj_horseparent || _checkforhorse.object_index == obj_collectibleparent || object_get_parent(_checkforhorse.object_index) == obj_collectibleparent
+	if _checkforhorse.object_index == obj_horseparent || object_get_parent(_checkforhorse.object_index) == obj_horseparent
 	{
 		currentpass = _checkforhorse.horseidentity
 		bodycolor = _checkforhorse.bodycolor
@@ -35,6 +36,7 @@ function func_performcollision(_checkforhorse=obj_mapparent)
 		}
 		else
 		{
+			//horse acceleration is reset upon hitting a wall
 			acceleration = 0
 		}
 		if _checkforhorse.object_index == obj_ball || object_get_parent(_checkforhorse.object_index) == obj_ball
@@ -129,6 +131,7 @@ function func_performknockback(_collidingobject)
 	var _checkforhorseforhighspeed = obj_mapparent
 	var _checkforhorseforother = obj_mapparent
 	
+	//if the horse initiating the collision is faster than the object it is colliding with
 	if currentmovespeed > _collidingobject.currentmovespeed
 	{
 		_highspeedobject = id
@@ -139,6 +142,7 @@ function func_performknockback(_collidingobject)
 		//show_debug_message("_otherobject:")
 		//show_debug_message(object_get_name(_otherobject.object_index))
 	}
+	//if the horse initiating the collision is slower than the object it is colliding with
 	if currentmovespeed < _collidingobject.currentmovespeed
 	{
 		_highspeedobject = _collidingobject
@@ -280,7 +284,7 @@ function func_surfacebounce(_objecttocheckfor)
 		if abs(_angletoadd) >= 180
 		{
 			//show_debug_message("failed to find suitable angle, performing anti collision clip")
-			func_anticollisionclipping(_objecttocheckfor)
+			//func_anticollisionmeasure(_objecttocheckfor)
 			_collisioncheckloop = false
 			//break;
 		}
@@ -290,32 +294,35 @@ function func_anticollisionclipping(_objecttocheckfor)
 {
 	var _distancetoadd = 4
 	//var _angletoadd = 1
-	var _angletoadd = 181
+	var _angletoadd = 180
 	var _checkingoppositeside = 1
 	var _anticollisioncheckloop = true
 	
 	while _anticollisioncheckloop == true
 	{
-		/*
-		if !func_placemeetingalt(x+lengthdir_x(_distancetoadd*_checkingoppositeside,targetangle),y+lengthdir_y(_distancetoadd*_checkingoppositeside,targetangle),_objecttocheckfor)
+		if !func_placemeetingalt(x+lengthdir_x(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)),y+lengthdir_y(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)),_objecttocheckfor) &&
+		!func_placemeetingalt(x+lengthdir_x(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)),y+lengthdir_y(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)),obj_mapparent) &&
+		!func_placemeetingalt(x+lengthdir_x(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)),y+lengthdir_y(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)),obj_horseparent) &&
+		x+lengthdir_x(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)) >= 0 && x+lengthdir_x(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)) <= room_width &&
+		y+lengthdir_y(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)) >= 0 && y+lengthdir_y(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside)) <= room_height
 		{
+			_anticollisioncheckloop = false
+			break; //sometimes the loop fails to end without a break???
+		}
+		if _distancetoadd > (room_width+room_height)*2 //failed to find position within room
+		{
+			_distancetoadd = 0
+			_angletoadd = 0
+			_checkingoppositeside = 1
 			_anticollisioncheckloop = false
 			break; //sometimes the loop fails to end without a break???
 		}
 		_checkingoppositeside *= -1
 		if _checkingoppositeside == 1
-			_distancetoadd++
-		*/
-		if !func_placemeetingalt(x+lengthdir_x(_distancetoadd,targetangle+_angletoadd),y+lengthdir_y(_distancetoadd,targetangle+_angletoadd),_objecttocheckfor) &&
-		!func_placemeetingalt(x+lengthdir_x(_distancetoadd,targetangle+_angletoadd),y+lengthdir_y(_distancetoadd,targetangle+_angletoadd),obj_mapparent) &&
-		!func_placemeetingalt(x+lengthdir_x(_distancetoadd,targetangle+_angletoadd),y+lengthdir_y(_distancetoadd,targetangle+_angletoadd),obj_horseparent)
 		{
-			_anticollisioncheckloop = false
-			break; //sometimes the loop fails to end without a break???
+			//_angletoadd++
+			_angletoadd += 11.25
 		}
-		_checkingoppositeside *= -1
-		if _checkingoppositeside == 1
-			_angletoadd++
 		//if _angletoadd >= 180
 		if _angletoadd >= 360
 		{
@@ -323,9 +330,49 @@ function func_anticollisionclipping(_objecttocheckfor)
 			_distancetoadd += 4
 		}
 	}
-	x += lengthdir_x(_distancetoadd,targetangle+_angletoadd)
-	y += lengthdir_y(_distancetoadd,targetangle+_angletoadd)
+	x += lengthdir_x(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside))
+	y += lengthdir_y(_distancetoadd,targetangle+(_angletoadd*_checkingoppositeside))
+}
+function func_anticollisionclippingcheap(_objecttocheckfor)
+{
+	var _distancetoadd = 4
+	var _anticollisioncheckloop = true
 	
+	while _anticollisioncheckloop == true
+	{
+		if !func_placemeetingalt(x+lengthdir_x(_distancetoadd,targetangle+180),y+lengthdir_y(_distancetoadd,targetangle+180),_objecttocheckfor) &&
+		!func_placemeetingalt(x+lengthdir_x(_distancetoadd,targetangle+180),y+lengthdir_y(_distancetoadd,targetangle+180),obj_mapparent) &&
+		!func_placemeetingalt(x+lengthdir_x(_distancetoadd,targetangle+180),y+lengthdir_y(_distancetoadd,targetangle+180),obj_horseparent)
+		{
+			_anticollisioncheckloop = false
+			break; //sometimes the loop fails to end without a break???
+		}
+		if _distancetoadd > (room_width+room_height)*2 //failed to find position within room
+		{
+			_distancetoadd = 0
+			_anticollisioncheckloop = false
+			break; //sometimes the loop fails to end without a break???
+		}
+		_distancetoadd += 4
+	}
+	x += lengthdir_x(_distancetoadd,targetangle+180)
+	y += lengthdir_y(_distancetoadd,targetangle+180)
+}
+function func_anticollisionmeasure(_objecttocheckfor)
+{
+	switch global.ANTI_COLLISION_MEASURE
+	{
+		case "cheap":
+		{
+			func_anticollisionclippingcheap(_objecttocheckfor)
+		}
+		break
+		case "expensive":
+		{
+			func_anticollisionclipping(_objecttocheckfor)
+		}
+		break
+	}
 }
 function func_outofboundsmeasure()
 {

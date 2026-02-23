@@ -43,7 +43,7 @@ if global.GAME_STATE == "normal"
 	if place_meeting(x,y,obj_mapparent)
 	{
 		//show_debug_message("stuck inside solid, performing anti collision clip")
-		func_anticollisionclipping(obj_mapparent)
+		func_anticollisionmeasure(obj_mapparent)
 	}
 	if func_placemeetingpath(x+hsp,y+vsp,obj_mapparent)
 	{

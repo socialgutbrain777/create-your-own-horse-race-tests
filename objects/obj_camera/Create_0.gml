@@ -21,8 +21,12 @@ zoommin = 0.01
 zoommax = 1
 zoominterval = 0.0125
 zoomdirection = 1
+zoomx = 0
+zoomy = 0
+zoommovespeed = 1
 zoomtransitionactive = false
 zoomtransitiontargetroom = rm_winnermultiple
+zoomtype = "curve"
 cammoveacceleratex = 0
 cammoveacceleratey = 0
 
