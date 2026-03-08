@@ -36,6 +36,8 @@ function scr_horse_stats(_givenidentity,_room=room)
 	xscaleflipspeed = 0.1
 	
 	bodycolor = make_color_rgb(17,240,13) //color that is used for win screen text & ball color
+	patternbicolor = false
+	bodycolor1 = make_color_rgb(17,240,13)
 	customstepsound = sfx_step
 	customhorsecollidesound = sfx_horsecollide
 	eyesprite = spr_horse_defaultdearly_eyes
@@ -771,14 +773,97 @@ function scr_horse_stats(_givenidentity,_room=room)
 			eyedirectionsmoveclockwise = true
 			firsteyeframe = 2
 			hasdasheffect = false
+			
 			bodycolor = make_color_rgb(168,34,50)
+			
 			winsprite = spr_horse_rainingRoses_win
 			losesprite = spr_horse_rainingRoses_lose
 			portraitsprite = spr_horseportrait_rainingRoses
 			portraitbgsprite = spr_horseportrait_bg_lh
+			
 			winsound = sfx_goathorse
 			winjingle = sfx_winjingle_rainingRoses
 			jinglelength = func_secondstoframes(4.20)
+		}
+		break
+		case "Binate Chromatism":
+		{
+			eyeframeamount = 8
+			spritemergedwitheyedirection = true
+			eyedirectionsmoveclockwise = true
+			firsteyeframe = 2
+			hasdasheffect = false
+			
+			bodycolor = make_color_rgb(63,229,199)
+			patternbicolor = true
+			bodycolor1 = make_color_rgb(216,93,124)
+			
+			winsprite = spr_horse_binateChromatism_win
+			losesprite = spr_horse_binateChromatism_lose
+			portraitsprite = spr_horseportrait_binateChromatism
+			portraitbgsprite = spr_horseportrait_bg_lh
+			
+			winjingle = sfx_winjingle_binateChromatism
+			jinglelength = func_secondstoframes(4.67)
+		}
+		break
+		case "Riveting Flash":
+		{
+			eyeframeamount = 8
+			spritemergedwitheyedirection = true
+			eyedirectionsmoveclockwise = true
+			firsteyeframe = 2
+			hasdasheffect = false
+			
+			bodycolor = make_color_rgb(25,163,44)
+			
+			winsprite = spr_horse_rivetingFlash_win
+			losesprite = spr_horse_rivetingFlash_lose
+			portraitsprite = spr_horseportrait_rivetingFlash
+			portraitbgsprite = spr_horseportrait_bg_lh
+			
+			winjingle = sfx_winjingle_rivetingFlash
+			jinglelength = func_secondstoframes(6.85)
+		}
+		break
+		case "Burial Malapropism":
+		{
+			eyeframeamount = 8
+			spritemergedwitheyedirection = true
+			eyedirectionsmoveclockwise = true
+			firsteyeframe = 2
+			hasdasheffect = false
+			
+			bodycolor = make_color_rgb(85,75,80)
+			
+			winsprite = spr_deer_burialMalapropism_win
+			losesprite = spr_deer_burialMalapropism_lose
+			portraitsprite = spr_horseportrait_burialMalapropism
+			portraitbgsprite = spr_horseportrait_bg_lh
+			
+			winsound = sfx_deer
+			winjingle = sfx_winjingle_burialMalapropism
+			jinglelength = func_secondstoframes(5.37)
+		}
+		break
+		case "Spiked Universal Nerman":
+		{
+			eyeframeamount = 8
+			spritemergedwitheyedirection = true
+			eyedirectionsmoveclockwise = true
+			firsteyeframe = 2
+			hasdasheffect = false
+			
+			bodycolor = make_color_rgb(255,200,60)
+			
+			winsprite = spr_horse_spikedUniversalNerman_win
+			losesprite = spr_horse_spikedUniversalNerman_lose
+			portraitsprite = spr_horseportrait_spikedUniversalNerman
+			portraitbgsprite = spr_horseportrait_bg_lh
+			
+			winsound = sfx_meow
+			winjingle = sfx_winjingle_spikedUniversalNerman
+			jinglelength = func_secondstoframes(8.74)
 		}
 		break
 	}

@@ -12,6 +12,9 @@ function func_ballpass(_checkforhorse)
 		bodycolor = _checkforhorse.bodycolor
 		winsound = _checkforhorse.winsound
 		winjingle = _checkforhorse.winjingle
+		patternbicolor = _checkforhorse.patternbicolor
+		bodycolor1 = _checkforhorse.bodycolor1
+		
 	}
 }
 function func_performcollision(_checkforhorse=obj_mapparent)
@@ -79,6 +82,12 @@ function func_performcollision(_checkforhorse=obj_mapparent)
 		var _doorknobsound = audio_play_sound(sfx_doorknobcollide,10,false)
 		audio_sound_pitch(_doorknobsound,random_range(0.8,1.2))
 		audio_sound_gain(_doorknobsound,random_range(0.25,1),0)
+	}
+	if object_index == obj_horse_rainingRoses && (_checkforhorse.object_index == obj_deer_burialMalapropism)
+	{
+		var _kissysound = audio_play_sound(sfx_chu,10,false)
+		audio_sound_pitch(_kissysound,random_range(0.8,1.2))
+		audio_sound_gain(_kissysound,random_range(0.25,1),0)
 	}
 }
 function func_randomdirectionchange()

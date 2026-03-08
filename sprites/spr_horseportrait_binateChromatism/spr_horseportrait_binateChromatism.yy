@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"17c0dd8a-ff1a-4b89-bd22-e132d9a9f6b0","name":"17c0dd8a-ff1a-4b89-bd22-e132d9a9f6b0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"49901e32-033d-4ea7-990e-c762f8e9abfb","name":"49901e32-033d-4ea7-990e-c762f8e9abfb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":480,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"b07736d1-810b-408b-8b43-ff9fbea96877","blendMode":0,"displayName":"default","isLocked":false,"name":"b07736d1-810b-408b-8b43-ff9fbea96877","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"faca5465-34d2-4d61-aaf7-16e8ce242831","blendMode":0,"displayName":"default","isLocked":false,"name":"faca5465-34d2-4d61-aaf7-16e8ce242831","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_horseportrait_binateChromatism",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"17c0dd8a-ff1a-4b89-bd22-e132d9a9f6b0","path":"sprites/spr_horseportrait_binateChromatism/spr_horseportrait_binateChromatism.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d4eb7e49-724b-4a7a-8c08-7352c2a42b95","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"49901e32-033d-4ea7-990e-c762f8e9abfb","path":"sprites/spr_horseportrait_binateChromatism/spr_horseportrait_binateChromatism.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c8349002-ee87-44b8-9d40-892e8bead757","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

@@ -11,6 +11,7 @@
   "compressionQuality":4,
   "conversionMode":0,
   "duration":45.176464,
+  "exportDir":"",
   "name":"sfx_mu_stickbug",
   "parent":{
     "name":"music",

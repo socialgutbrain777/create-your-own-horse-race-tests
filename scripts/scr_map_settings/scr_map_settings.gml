@@ -165,9 +165,31 @@ function scr_map_settings(argument0)
 			global.SHOW_TIMER = false
 		}
 		break
-		case rm_mapgeneral1:
+		case rm_mapgeneral3:
 		{
-			func_switchmusic(sfx_mu_sillygooseRag)
+			global.ANTI_COLLISION_MEASURE = "expensive"
+			func_switchmusic(sfx_mu_stickbug)
+			global.OUT_OF_BOUNDS_MEASURE = "respawn"
+		}
+		break
+		case rm_bcrtest:
+		{
+			global.ANTI_COLLISION_MEASURE = "expensive"
+			func_switchmusic(sfx_null)
+			global.OUT_OF_BOUNDS_MEASURE = "respawn"
+		}
+		break
+		case rm_maplemonlime:
+		{
+			global.ANTI_COLLISION_MEASURE = "expensive"
+			func_switchmusic(sfx_mu_popcorn)
+			global.OUT_OF_BOUNDS_MEASURE = "respawn"
+		}
+		break
+		case rm_maplemonlime_fun:
+		{
+			global.ANTI_COLLISION_MEASURE = "expensive"
+			func_switchmusic(sfx_mu_popcorn)
 			global.OUT_OF_BOUNDS_MEASURE = "respawn"
 		}
 		break

@@ -125,6 +125,19 @@ function func_draw_text_ext_transformed_outline(_textx,_texty,_textstring,_texts
 	draw_set_color(_textcolor)
 	draw_text_ext_transformed(_textx,_texty,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle)
 }
+function func_draw_text_ext_transformed_colour_outline(_textx,_texty,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle,_textcolor1,_textcolor2,_textcolor3,_textcolor4,_textalpha,_textoutlinecolor,_textoutlinesize)
+{
+	draw_set_color(_textoutlinecolor)
+	draw_text_ext_transformed(_textx+_textoutlinesize,_texty,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle)
+	draw_text_ext_transformed(_textx-_textoutlinesize,_texty,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle)
+	draw_text_ext_transformed(_textx,_texty+_textoutlinesize,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle)
+	draw_text_ext_transformed(_textx,_texty-_textoutlinesize,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle)
+	draw_text_ext_transformed(_textx+_textoutlinesize,_texty+_textoutlinesize,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle)
+	draw_text_ext_transformed(_textx-_textoutlinesize,_texty+_textoutlinesize,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle)
+	draw_text_ext_transformed(_textx+_textoutlinesize,_texty-_textoutlinesize,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle)
+	draw_text_ext_transformed(_textx-_textoutlinesize,_texty-_textoutlinesize,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle)
+	draw_text_ext_transformed_colour(_textx,_texty,_textstring,_textsep,_textw,_textxscale,_textyscale,_textangle,_textcolor1,_textcolor2,_textcolor3,_textcolor4,_textalpha)
+}
 function func_createmapselectionpage()
 {
 	if instance_exists(obj_mapselectiontab)

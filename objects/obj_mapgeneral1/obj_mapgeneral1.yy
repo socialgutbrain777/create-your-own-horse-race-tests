@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_mapgeneral1",
-    "path":"sprites/spr_mapgeneral1/spr_mapgeneral1.yy",
+    "name":"spr_mapgeneral3",
+    "path":"sprites/spr_mapgeneral3/spr_mapgeneral3.yy",
   },
   "spriteMaskId":null,
   "visible":true,

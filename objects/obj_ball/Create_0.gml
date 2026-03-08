@@ -45,6 +45,8 @@ afterimagecooldown = 0
 dashlinecooldown = 0
 
 bodycolor = make_color_rgb(243,119,0)
+patternbicolor = true
+bodycolor1 = make_color_rgb(243,119,0)
 customstepsound = sfx_ball
 customhorsecollidesound = sfx_horsecollide
 eyesprite = spr_null
@@ -61,3 +63,4 @@ hiddenindarkness = false
 
 outlinesprite = spr_ball_outline
 coloringsprite = spr_ball_coloring
+bicolorsprite = spr_ball_bicolor

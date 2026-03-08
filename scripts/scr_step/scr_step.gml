@@ -155,6 +155,11 @@ function scr_step()
 		if global.GAME_STATE != "paused"
 			event_user(0)
 	}
+	with obj_placeyourbetslh
+	{
+		if global.GAME_STATE != "paused"
+			event_user(0)
+	}
 	with obj_fisher
 	{
 		if global.GAME_STATE != "paused"
@@ -162,6 +167,11 @@ function scr_step()
 	}
 	
 	with obj_gate
+	{
+		if global.GAME_STATE != "paused"
+			event_user(0)
+	}
+	with obj_gate_lh
 	{
 		if global.GAME_STATE != "paused"
 			event_user(0)

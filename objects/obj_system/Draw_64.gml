@@ -4,7 +4,7 @@ draw_set_font(fnt_comicsans)
 draw_set_halign(fa_right)
 draw_set_valign(fa_bottom)
 if room != rm_mapselection && global.SHOW_TIMER == true
-	func_draw_text_ext_transformed_outline(638,479,func_gettimestring(true),16,500,1,1,0,c_yellow,c_black,1)
+	func_draw_text_ext_transformed_outline(638,479,"Lab Horse\n"+func_gettimestring(true),16,500,1,1,0,c_yellow,c_black,1)
 if obj_camera.spectatinghorse != -1
 {
 	func_draw_text_ext_transformed_outline(638,427,"spectating:",16,500,1,1,0,c_white,c_black,1)
